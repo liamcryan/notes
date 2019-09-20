@@ -16,5 +16,5 @@ Some notes from new things.
 
 * flow (compile, chmod, run)
 
-
+* logical operators (and, or, not)
 
