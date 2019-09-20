@@ -13,5 +13,12 @@ Flow
 
 * run :code:`./helloworld`
 
+Logical Operators
+=================
 
+* AND :code:`&`
+
+* OR :code:`|`
+
+* NOT :code:`!`
 
