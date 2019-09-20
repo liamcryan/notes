@@ -12,7 +12,9 @@ Some notes from new things.
 
 * command line
 
+## [c-notes](c-notes.rst)
 
+* flow (compile, chmod, run)
 
 
 
