@@ -1,6 +1,6 @@
 # Notes
 
-Some notes from new things.
+Some notes from new things. So new.
 
 ## [vim-notes](vim-notes.rst) 
 
@@ -16,3 +16,8 @@ Some notes from new things.
 
 * flow (compile, chmod, run)
 
+## [bash-notes](bash-notes.rst)
+
+* variable assignment
+
+* string manipulation
