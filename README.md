@@ -21,3 +21,5 @@ Some notes from new things. So new.
 * variable assignment
 
 * string manipulation
+
+* example scripts
