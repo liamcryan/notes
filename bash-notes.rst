@@ -18,3 +18,9 @@ ___________________
 
 * splicing :code:`${$url:0:-4}`
 
+
+Examples
+_______
+
+* [chk-gh.bash](examples/chk-gh.bash)
+
